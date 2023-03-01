@@ -5,7 +5,7 @@
  * @str: The string to print
  * Return: void
  */
- 
+
 void puts_half(char *str)
 
 {
