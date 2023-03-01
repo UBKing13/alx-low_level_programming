@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * rev_sring - Reverses a string
+ * rev_string - Reverses a string
  * @s: The string to be modified
  * Return: void
  */
 
-void rev_sring(char *s)
+void rev_string(char *s)
 
 {
 
